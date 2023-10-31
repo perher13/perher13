@@ -1,5 +1,5 @@
-### ¡Hola! Soy Pere Heredia
-
+### ¡Hola! ###
+Soy Pere Heredia un Junior Software Developer cursando actualmente Ingenieria Informatica en UAB después de acabar Desarrollo de Aplicaciones Multiplataformas
 
 
 <!--
