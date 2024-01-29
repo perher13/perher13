@@ -1,5 +1,9 @@
 ### ¡Hola! ###
-Soy Pere Heredia un Junior Software Developer cursando actualmente Ingenieria Informatica en UOC después de acabar Desarrollo de Aplicaciones Multiplataformas
+Soy Pere Heredia un Junior Software Developer, soy de Barcelona y estoy en búsqueda activa de trabajo para desarrollarme como profesional
+
+<!-- · Visitad mi pagina web para saber más -->
+
+
 
 
 <!--
